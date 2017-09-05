@@ -1,0 +1,11 @@
+// {
+//     "plugins": [
+//         "react"
+//     ],
+//     "parserOptions": {
+//         "ecmaFeatures": {
+//             "jsx": true
+//         }
+//     },
+//     "extends": ["eslint:all", "plugin:react/all"]
+// }
